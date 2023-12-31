@@ -47,3 +47,6 @@ pip install flask
 - `Top right corner` `Don't Stay Simple, help others` named link redirect to a page which gives the information about how we can help others who have suffering from mental health problem.
 - One more speciality of this page is chatbot. You can see `bottom right corner` a chatbot icon.
 - This will redirect to a new page which contains `Swasthya AI Chatbot`.
+---
+# Languages
+  [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,python,flask,nlp&theme=light)](https://skills.thijs.gg)
